@@ -1,7 +1,5 @@
-### Hi there 👋
+![Camilla De Martino(1)](https://github.com/CamillaDeMartino/CamillaDeMartino/assets/113611335/2af4ff5e-67ba-44eb-b974-8bb8769d5641)
 
-<!--
-**CamillaDeMartino/CamillaDeMartino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
