@@ -5,7 +5,7 @@
 📫 How to reach me:
   - Personal mail: **camillademartino97@gmail.com**
   - University mail: **camilla.demartino001@studenti.uniparthenope.it**
-  - Linkedin: [Camilla De Martino](www.linkedin.com/in/camilla-de-martino-7b041b293)
+  - Linkedin: [Camilla De Martino](https://www.linkedin.com/in/camilla-de-martino-7b041b293/)
  
 ### Web Development
 
